@@ -10,7 +10,8 @@ add_executable(chessMultiThread  main.cpp
 chessman.h chessman.cpp 
 point.h point.cpp 
 rect.h rect.cpp
- horse.h horse.cpp 
-king.h king.cpp
-chessboard.h chessboard.cpp)
+chessboard.h chessboard.cpp
+threadpool.h threadpool.cpp)
 
+#horse.h horse.cpp
+#king.h king.cpp
